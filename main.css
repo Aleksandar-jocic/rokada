@@ -1,0 +1,72 @@
+body h1 {
+  text-align: center; }
+body h2 {
+  color: #2C1F7B; }
+
+#engagement ul {
+  padding: 0px;
+  list-style-position: inside; }
+  #engagement ul li:nth-of-type(1) {
+    margin-top: 15px; }
+
+#footer {
+  color: white;
+  text-align: center;
+  padding: 30px;
+  box-sizing: border-box;
+  margin: 50px 0px 0px 0px;
+  height: auto;
+  width: 100%;
+  background: linear-gradient(180deg, #1F155E 0%, #2C1F7B 100%);
+  box-shadow: inset 0 10px 10px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 80%/70px 70px 0 0; }
+
+.logoFooter p:first-of-type {
+  margin-top: 25px; }
+
+.socialNetworkIcons i {
+  font-size: 3em;
+  margin: 0 10px 0 10px; }
+
+.TalentCard h5 {
+  text-align: center; }
+.TalentCard p {
+  text-align: center; }
+
+.locationThreePin {
+  text-align: center; }
+
+.blueLine {
+  height: 4px;
+  width: 86px;
+  background-color: #2300FF;
+  margin: 0 auto 50px auto; }
+
+.grayLine {
+  box-sizing: border-box;
+  height: 1px;
+  width: 174px;
+  border: 2px solid #acacac;
+  margin: 20px 0px 20px 0px;
+  border-radius: 4px; }
+
+.pinkLine {
+  box-sizing: border-box;
+  height: 3px;
+  width: 167px;
+  border: 2px solid #DF3C7B;
+  margin: 20px 0px 20px 0px; }
+
+.contactButton {
+  color: white;
+  height: 45px;
+  width: 150px;
+  border-radius: 5px;
+  background-color: #DF3C7B;
+  font-size: 1.4em; }
+
+.bigSpan {
+  font-size: 3em;
+  line-height: 1em; }
+
+/*# sourceMappingURL=main.css.map */
