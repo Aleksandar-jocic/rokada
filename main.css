@@ -3,11 +3,40 @@ body h1 {
 body h2 {
   color: #2C1F7B; }
 
+.brainPick {
+  display: flex;
+  justify-content: space-around; }
+
+.attributeCards {
+  width: 300px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  margin-bottom: 20px; }
+
+.atest {
+  display: flex;
+  justify-content: space-evenly; }
+
+.atest2 {
+  width: 600px;
+  display: flex;
+  justify-content: space-evenly; }
+
+.attributeCardsElement {
+  display: flex;
+  flex-direction: column; }
+
 #engagement ul {
   padding: 0px;
   list-style-position: inside; }
   #engagement ul li:nth-of-type(1) {
     margin-top: 15px; }
+
+.empowerBackDiv {
+  background-image: url("./Pic/Engagement/wave.png");
+  background-size: cover; }
 
 #footer {
   color: white;
